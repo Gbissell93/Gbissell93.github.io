@@ -11,8 +11,13 @@
       
       ## My Hobbies include:  
       * Photography ([Instagram here](https://www.instagram.com/greg_wit_da_camera/))
-      * Breakging ([video here](https://youtu.be/qy6svuJGYrY?t=176))
+      * Breaking/Breakdancing ([video here](https://youtu.be/qy6svuJGYrY?t=176))
       * making beats on my sampler for fun ([some terrible music with awful audio quality](https://photos.app.goo.gl/JE1xd39fqrtLvBa68))
+      
+        >Also, can do a backflip...  
+        -Gregory Bissell, moments before failing a backflip attempt.
+          
+          ![The flip](flip.jpg)
       
       
       
