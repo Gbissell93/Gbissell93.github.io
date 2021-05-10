@@ -3,8 +3,8 @@
    My name is Gregory, and I'm learning to code at Code Immersives!  
      I'm from Louisville Kentucky and I'm a self taught coder. I've been coding for about one year using free sources on the web.
        My favorite sources are:  
-  1. [W3schools](w3shools.com)
-  2. [Freecodecamp](freecodecamp.com)
+  1. [W3schools](https://www.w3schools.com/)
+  2. [Freecodecamp](https://www.freecodecamp.org/)
   3. [The Odin Project](https://www.theodinproject.com)
   
     
